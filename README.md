@@ -5,7 +5,6 @@ This repository contains end-to-end tests for [Your Application Name] using Cypr
 ## Table of Contents
 
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Running Tests](#running-tests)
 - [Writing Tests](#writing-tests)
 
@@ -14,24 +13,18 @@ This repository contains end-to-end tests for [Your Application Name] using Cypr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    https://github.com/adityadimasptra/cypress-test.git
     ```
 
-2. Install the dependencies:
+2. Go to repo name:
+    ```bash 
+    cd cypress-test
+    ```
+3. Install the dependencies:
 
     ```bash
     npm install
     ```
-
-## Configuration
-
-Cypress configuration files can be found in the `cypress` directory:
-
-- `cypress.json`: Main configuration file.
-- `cypress.env.json`: Environment-specific variables.
-
-You can modify these files to fit your project's needs.
 
 ## Running Tests
 
