@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".", // This must be specified if "paths" is.
+    "paths": {
+      "@pom/*": ["cypress/pom/*"], // This mapping is relative to "baseUrl".
+    }
+  }
+}

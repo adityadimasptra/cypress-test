@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Cypress specific
+cypress/videos/
+cypress/screenshots/
+cypress/reports/
+
+# Coverage
+coverage/
+
+# Environment variables
+.env
+
+# Log files
+*.log
