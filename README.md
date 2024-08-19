@@ -1,3 +1,6 @@
+
+# Introduction
+Hello, my name is Aditya Dimas Saputra and i'am a candidate for QA Engineer in Paper.id. please feel free to review my test automation
 # Cypress Project
 
 This repository contains end-to-end tests for [Your Application Name] using Cypress. Cypress is a powerful testing framework that provides fast, reliable testing for anything that runs in a browser.
